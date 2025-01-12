@@ -160,7 +160,7 @@ p.note { display: none; }
 <a href="20250111_019.JPG" target="_blank"><img src="20250111_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250111_020.JPG" target="_blank"><img src="20250111_020.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">お腹も膨らんだのでパートゥン温泉に向かいます</span></h2>
+<h2><span class="yellow">お腹も膨らんだのでパートゥン温泉に向かいます<br>GoogleMaps埋め込みました↓</span></h2>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1736603764853!6m8!1m7!1sprIuDfvFF_vHQnsdfMNGKw!2m2!1d20.11810435907814!2d99.79951004036357!3f298.3850152363104!4f-8.098765692746909!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 
