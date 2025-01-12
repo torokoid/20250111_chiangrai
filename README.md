@@ -237,6 +237,7 @@ p.note { display: none; }
 <h2><span class="yellow">噴水の水と風の加減で虹が濃くなります</span></h2>
 <a href="20250111_060.JPG" target="_blank"><img src="20250111_060.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">噴水と虹の動画</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6AQesh0hys8?si=kvT5dLkGLlhud4VE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <a href="20250111_061.JPG" target="_blank"><img src="20250111_061.JPG" alt="サンプル画像" width="900" /></a>
