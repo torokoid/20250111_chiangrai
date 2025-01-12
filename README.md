@@ -131,7 +131,7 @@ p.note { display: none; }
 <h2><span class="yellow">気温が低くて屋外プールは断念、プール脇にあったアスレチックで遊びました</span></h2>
 <a href="20250111_001.JPG" target="_blank"><img src="20250111_001.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">屋外設置されている機器は大学の実習で作ったかのような<br>いかにも手作りでしたが、ちゃんと作動します</span></h2>
+<h2><span class="yellow">屋外設置されている機器は大学の実習で作ったかのようないかにも手作りでしたが、<br>ちゃんと作動します。屋外放置でこの耐久性はリッパ</span></h2>
 <a href="20250111_002.JPG" target="_blank"><img src="20250111_002.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20250111_003.JPG" target="_blank"><img src="20250111_003.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20250111_004.JPG" target="_blank"><img src="20250111_004.JPG" alt="サンプル画像" width="450" /></a>
